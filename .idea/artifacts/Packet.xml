@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Packet">
+    <output-path>$PROJECT_DIR$/../Dependencies</output-path>
+    <root id="archive" name="Packet.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.16.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Dependencies/Travertine.jar" />
+      <element id="module-output" name="Packet" />
+    </root>
+  </artifact>
+</component>
